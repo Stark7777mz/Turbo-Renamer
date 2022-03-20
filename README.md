@@ -9,7 +9,7 @@
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/JAsuran/Turbo-Renamer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Stark7777mz/Turbo-Renamer)
 
 ## Available BotFather commands
 ```
